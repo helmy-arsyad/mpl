@@ -1,4 +1,6 @@
+import './style.css';
 import { initializeApp } from 'firebase/app';
+
 import { getDatabase, ref, onValue, set } from 'firebase/database';
 import { TEAMS, INITIAL_MATCHES } from './constants.js';
 import * as lucide from 'lucide';
