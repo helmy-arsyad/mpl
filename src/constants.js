@@ -1,13 +1,13 @@
 export const TEAMS = {
   "AE": { id: "AE", name: "Alter Ego ESPORTS", logo: "https://ik.imagekit.io/nloe8dhf7w/mplid/s14/teams/ae-64.png" },
-  "BTR": { id: "BTR", name: "Bigetron BY VIT", logo: "https://cdn.id-mpl.com/season16/Logo/btr_vit.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO00UK9XG63MGT2KWV9H%2F20260510%2Fsgp1%2Fs3%2Faws4_request&X-Amz-Date=20260510T042731Z&X-Amz-SignedHeaders=host&X-Amz-Expires=21600&X-Amz-Signature=a77fa317cea44d7c8826ec7348a82a82c703c2dc46e2755f38724015e0b8d147" },
-  "ONIC": { id: "ONIC", name: "ONIC", logo: "https://cdn.id-mpl.com/data/teams/onic-b-64.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO00UK9XG63MGT2KWV9H%2F20260510%2Fsgp1%2Fs3%2Faws4_request&X-Amz-Date=20260510T042731Z&X-Amz-SignedHeaders=host&X-Amz-Expires=21600&X-Amz-Signature=c8bd54bb0110491a28cde7ecc8f42bbe3123fe1478c21a270fb9e5ed570b52e9" },
+  "BTR": { id: "BTR", name: "Bigetron BY VIT", logo: "https://ik.imagekit.io/cy319w8h1/btr_vit.png" },
+  "ONIC": { id: "ONIC", name: "ONIC", logo: "https://ik.imagekit.io/cy319w8h1/onic-b-64.png" },
   "DEWA": { id: "DEWA", name: "Dewa United", logo: "https://ik.imagekit.io/nloe8dhf7w/mplid/s14/teams/dewa-64.png" },
   "EVOS": { id: "EVOS", name: "EVOS", logo: "https://ik.imagekit.io/nloe8dhf7w/mplid/s14/teams/evos-64.png" },
   "TLID": { id: "TLID", name: "Team Liquid ID", logo: "https://ik.imagekit.io/nloe8dhf7w/mplid/s14/teams/tlid-64.png" },
   "GEEK": { id: "GEEK", name: "Geek Fam", logo: "https://ik.imagekit.io/nloe8dhf7w/mplid/s14/teams/geek-64.png" },
   "RRQ": { id: "RRQ", name: "RRQ HOSHI", logo: "https://ik.imagekit.io/nloe8dhf7w/mplid/s14/teams/rrq-64.png" },
-  "NAVI": { id: "NAVI", name: "NAVI", logo: "https://cdn.id-mpl.com/season15/NAVI-2.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO00UK9XG63MGT2KWV9H%2F20260510%2Fsgp1%2Fs3%2Faws4_request&X-Amz-Date=20260510T042731Z&X-Amz-SignedHeaders=host&X-Amz-Expires=21600&X-Amz-Signature=826f55e2794c0cbded0fc0c7ea096bb282163b9dcb4799d6d15c44259d24014f" }
+  "NAVI": { id: "NAVI", name: "NAVI", logo: "https://ik.imagekit.io/cy319w8h1/NAVI-2.png" }
 };
 
 export const INITIAL_MATCHES = [
